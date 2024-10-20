@@ -1,0 +1,10 @@
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\UNICAES\CICLO_4\Metodos Numericos\MetodoLaGrange\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
